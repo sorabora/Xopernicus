@@ -1,2 +1,2 @@
 # Xopernicus
-Vibecoded modding toolkit for weborbit
+Vibecoded modding toolkit for weborbit.
